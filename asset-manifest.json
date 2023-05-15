@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ibnuwildan/test-nutect-integrasi.git/static/css/main.756af292.css",
+    "main.js": "/ibnuwildan/test-nutect-integrasi.git/static/js/main.e75fbb3f.js",
+    "static/js/787.ad4f4dcc.chunk.js": "/ibnuwildan/test-nutect-integrasi.git/static/js/787.ad4f4dcc.chunk.js",
+    "index.html": "/ibnuwildan/test-nutect-integrasi.git/index.html",
+    "main.756af292.css.map": "/ibnuwildan/test-nutect-integrasi.git/static/css/main.756af292.css.map",
+    "main.e75fbb3f.js.map": "/ibnuwildan/test-nutect-integrasi.git/static/js/main.e75fbb3f.js.map",
+    "787.ad4f4dcc.chunk.js.map": "/ibnuwildan/test-nutect-integrasi.git/static/js/787.ad4f4dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.e75fbb3f.js"
+  ]
+}
